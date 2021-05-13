@@ -1,0 +1,39 @@
+#models_hiring_metabox{
+    display: flex !important;
+    flex-flow: column wrap !important;
+    width: 100% !important;
+}
+
+#customPostModel{
+    display: flex !important;
+    flex-flow: column wrap !important;
+    width: 100% !important;
+}
+
+#customPostModel tr{
+    display: flex !important;
+    flex-flow: row wrap !important;
+    width: 100% !important;
+    justify-content: space-around;
+}
+
+#checkboxModel{
+    display: flex !important;
+    flex-flow: row nowrap !important;
+    align-content: center !important;
+}
+
+#disponibleModel{
+    margin: auto; 
+    margin-right: 10px;
+}
+
+.iconillo{
+    width: 20px;
+    height: 20px;
+}
+
+.firmilla{
+    height: 60px;
+    width: 150px;
+}
